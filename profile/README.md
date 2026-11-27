@@ -12,6 +12,8 @@
   <a href="https://tell.fun"><img src="https://img.shields.io/badge/money-faucet%20test%20money-ECE9DF?style=flat-square&labelColor=0B0C0B" alt="Runs on faucet test money"></a>
 </p>
 
+<p align="center"><strong>CA:</strong> <code>TELLbUhH3mroXH5xtgGorT7eeFaVfzAiJkwQTbMvuWc</code></p>
+
 # Tell
 
 Seal first, tell after. The place in line of a sealed order is fixed first, and the order opens only afterwards.
