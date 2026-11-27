@@ -47,7 +47,3 @@ The four programs on the Tell chain, each with no upgrade authority:
 ## What the comparison measures
 
 The open pool and the sealed pool use the same constant-product pricing. In the open pool, the direction and size of an order are visible before execution. In the sealed pool, a commitment gets its place first. The comparison uses project-operated accounts and faucet tokens.
-
-## Network assets
-
-Tell currently runs on faucet tokens. The proposed switch would use $TELL for gas, stake and order bonds.
